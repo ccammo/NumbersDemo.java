@@ -10,6 +10,7 @@ public class NumbersDemo
 		displayNumberPlusFive(a, b);
 		displayNumberSquared(a, b);
 	}
+	//function displaying twice the number
 	public static void displayTwiceTheNumber(int a, int b)
 	{
 		System.out.println("Integer a is " + a + " and integer b is " + b);
